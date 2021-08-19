@@ -29,7 +29,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/drobb2020/readme-template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo2.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">BT Real Estate Website (Django)</h3>
