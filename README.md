@@ -77,10 +77,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![BTRE website Screen Shot](./btre_screenshot.png)
 
-This is a blank template for new projects. To avoid retyping too much info. **Do a search and replace with your text editor for the following:**
-`drobb2020`, `btre_project`, `DavidRobb2`, `drobb2011@gmail.com`, `BT Real Estate Website (Django)`, `Real Estate website built using Python and Django 3.2.x. Based on a Packt course hosted by Brad Traversy`
+I found this project on O'Rielly, and I really like Brad Traversey's teaching methods. Since this was a project based course and I wanted to do another Django project this was perfect. I also signed up for a free trial at Packt to get the starter files for this project.
 
 ### Built With
 
@@ -142,7 +141,7 @@ You will require the following software installed locally on your system or on a
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This is a learning project for me to get more comfortable with Django. While the login/logout/register and dashboard are all functional this site is not quite production ready.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -177,9 +176,9 @@ Project Link: [https://github.com/drobb2020/btre_project](https://github.com/dro
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [Brad Traversey](https://www.traversymedia.com/)
+* [O'Reilly Learning](https://learning.oreilly.com/videos/python-django-dev/9781838641283/9781838641283-video1_1/)
+* [Packt](https://subscription.packtpub.com/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
