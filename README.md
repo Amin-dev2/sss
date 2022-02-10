@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/drobb2020/readme-template">
-    <img src="/logo.png" alt="Logo" width="80" height="80">
+    <img src="./logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">BT Real Estate Website (Django)</h3>
@@ -29,30 +29,19 @@
 </p>
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
+
+- [About The Project](#about-the-project)
+  - [Built With](#built-with)
+  - [Security updates](#security-updates)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -63,9 +52,17 @@ I found this project on O'Rielly, and I really like Brad Traversey's teaching me
 
 ### Built With
 
-* [Python 3.9.6](https://www.python.org/downloads/)
-* [Django 3.2.6](https://www.djangoproject.com/)
-* [PostgreSQL 13.4](https://postgresapp.com/)
+- [Python 3.9.6](https://www.python.org/downloads/)
+- [Django 3.2.6](https://www.djangoproject.com/)
+- [PostgreSQL 13.4](https://postgresapp.com/)
+
+### Security updates
+
+- Python has been updated to 3.9.10
+- Django has been updated to 3.2.12
+- Pillow has been updated to 9.0.1
+
+These updates were necessary to address security vulnerabilities
 
 <!-- GETTING STARTED -->
 ## Getting Started
