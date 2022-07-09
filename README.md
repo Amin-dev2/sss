@@ -33,6 +33,7 @@
 - [About The Project](#about-the-project)
   - [Built With](#built-with)
   - [Security updates](#security-updates)
+  - [Security Updates 2022](#security-updates-2022)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -61,6 +62,11 @@ I found this project on O'Rielly, and I really like Brad Traversey's teaching me
 - Python has been updated to 3.9.10
 - Django has been updated to 3.2.12
 - Pillow has been updated to 9.0.1
+
+### Security Updates 2022
+- Python upated to 3.9.13
+- Django updated to 3.2.14
+- Pillow updated to 9.2.0
 
 These updates were necessary to address security vulnerabilities
 
@@ -118,9 +124,7 @@ You will require the following software installed locally on your system or on a
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This is a learning project for me to get more comfortable with Django. While the login/logout/register and dashboard are all functional this site is not quite production ready.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+This is a learning project for me to get comfortable with Django. While the login/logout/register and dashboard are all functional this site is not production ready.
 
 <!-- ROADMAP -->
 ## Roadmap
