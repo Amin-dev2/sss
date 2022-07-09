@@ -64,7 +64,8 @@ I found this project on O'Rielly, and I really like Brad Traversey's teaching me
 - Pillow has been updated to 9.0.1
 
 ### Security Updates 2022
-- Python upated to 3.9.13
+
+- Python updated to 3.9.13
 - Django updated to 3.2.14
 - Pillow updated to 9.2.0
 
@@ -79,11 +80,11 @@ To get a local copy up and running follow these simple steps. This project was c
 
 You will require the following software installed locally on your system or on an appropriate server:
 
-* Python
+- Python
 
   1. Download the latest version of Python from python.org, or use brew to install Python. Follow the well published instructions on successfully installing the latest version of Python.
 
-* PostgreSQL
+- PostgreSQL
   1. For mac go to the postgres.app website and download the appropriate version of postgres. At the time of writing this was version 13.4. For the M1 make sure you download a universal version.
   2. Use the Postgres.app to create a database server. You will see an initialize button, click that.
   3. Install pgAdmin4 to administer the database.
@@ -157,9 +158,9 @@ Project Link: [https://github.com/drobb2020/btre_project](https://github.com/dro
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [Brad Traversey](https://www.traversymedia.com/)
-* [O'Reilly Learning](https://learning.oreilly.com/videos/python-django-dev/9781838641283/9781838641283-video1_1/)
-* [Packt](https://subscription.packtpub.com/)
+- [Brad Traversey](https://www.traversymedia.com/)
+- [O'Reilly Learning](https://learning.oreilly.com/videos/python-django-dev/9781838641283/9781838641283-video1_1/)
+- [Packt](https://subscription.packtpub.com/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
