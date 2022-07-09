@@ -38,6 +38,7 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
+- [Updated Project 2022](#updated-project-2022)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
@@ -126,6 +127,12 @@ You will require the following software installed locally on your system or on a
 ## Usage
 
 This is a learning project for me to get comfortable with Django. While the login/logout/register and dashboard are all functional this site is not production ready.
+
+## Updated Project 2022
+
+The original project exposed a lot of confidential information. I have now added python-decouple and django-extensions to the project to create a new secret key and decouple to place all the confidential settings in a .env file. See the env_example file to see which settings are hidden now.
+
+Make sure you add your .env file to the .gitignore file if it is not already there.
 
 <!-- ROADMAP -->
 ## Roadmap
