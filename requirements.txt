@@ -2,7 +2,7 @@ asgiref==3.4.1
 astroid==2.6.6
 attrs==21.2.0
 autopep8==1.6.0
-Django==3.2.14
+Django==3.2.15
 django-extensions==3.1.5
 iniconfig==1.1.1
 isort==5.9.3
